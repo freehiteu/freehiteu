@@ -15,7 +15,7 @@
 <ul>
 <li><strong>International Cricket</strong>: Follow ICC events like the Cricket World Cup, T20 World Cup, and Champions Trophy.</li>
 <li><strong>Domestic Leagues</strong>: Catch every boundary from the <a href="https://freehiteu.org/indian-premier-league/">Indian Premier League</a> (IPL), <a href="https://freehiteu.org/pakistan-super-league/">Pakistan Super League</a> (PSL), Big Bash League (BBL), and Caribbean Premier League (CPL).</li>
-<li><strong>Test Cricket</strong>: Enjoy classic rivalries in series like The Ashes or India vs. Australia.</li>
+<li><strong>Test Cricket</strong>: Watch <a href="https://freehiteu.org/wtc-final/">World Test Championship</a> (WTC Final) or Enjoy classic rivalries in series like The Ashes or India vs. Australia.</li>
 <li><strong>Women&rsquo;s Cricket</strong>: Stream women&rsquo;s international matches and leagues like the Women&rsquo;s Big Bash League (WBBL).</li>
 <li><strong>Highlights and Replays</strong>: Missed a match? Watch highlight reels and full-match replays for key moments.</li>
 <li><strong>Emerging Tournaments</strong>: Discover lesser-known leagues like the Lanka Premier League (LPL) or County Cricket.</li>
